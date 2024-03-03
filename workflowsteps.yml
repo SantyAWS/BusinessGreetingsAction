@@ -1,0 +1,3 @@
+steps:
+  - name: Run Custom action
+    uses: SantyAWS/BusinessGreetingsAction@main
